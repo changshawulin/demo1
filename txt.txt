@@ -1,6 +1,2 @@
 branches
-<<<<<<< HEAD
 234efdw
-=======
-12345
->>>>>>> 6a4aab47de58a68fd3be4d1c9d87844a00f00aaa
